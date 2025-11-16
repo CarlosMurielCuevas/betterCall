@@ -2,6 +2,7 @@ import { ApplicationConfig, provideBrowserGlobalErrorListeners, provideZoneChang
 import { provideRouter } from '@angular/router';
 
 import { routes } from './app.routes';
+import { Home } from './pages/home/home';
 
 export const appConfig: ApplicationConfig = {
   providers: [
