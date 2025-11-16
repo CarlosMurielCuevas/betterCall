@@ -1,0 +1,11 @@
+# Node / Angular
+/frontend/node_modules
+/frontend/dist
+
+# Python / Backend
+/backend/venv
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
